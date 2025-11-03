@@ -1,0 +1,53 @@
+header{
+    background-color: aqua;
+    text-align: center;
+    border-bottom: 2px solid
+
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.text{
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    border-bottom: 2px  solid blue  ;
+    border-top: 2px solid blue;
+    border-radius: 40px;
+}
+.text1{
+    background-color: aqua;
+    border-radius: 30px;
+}
+.text2{
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    border-bottom: 2px solid blue;
+    border-top:  2px solid blue;
+    border-radius: 40px ;
+
+}
+.text3{
+    background-color: aqua;
+    border-radius: 30px;
+}
+.text5{
+    background-color: aqua;
+    border-radius: 30px;
+}
+.text4{
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    border-bottom: 2px solid blue;
+    border-top: 2px solid blue;
+    border-radius: 40px;
+}
+footer{
+    border-top: 2px solid aqua;
+    text-align: center;
+    background-color: blue;
+    height: 100PX;
+}
